@@ -29,4 +29,5 @@ while True:
         
         # Shows the dictionary
         print(dictionary)
+        input()
         break
