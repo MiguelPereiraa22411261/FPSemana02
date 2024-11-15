@@ -28,4 +28,3 @@ for char in intersection:
 result.sort(key=lambda x: (x.islower(), x)) # Always puts uppercase letters first
 for char in result:
     print(char, end = "") # Shows every character in the same line
-input()
